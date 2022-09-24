@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    float V,h,b,l;
+    cout<<"enter the hight, breadth and length";
+    cout<<endl;
+    cin>>h>>b>>l;
+    V=h*b*l;
+    cout<<"the voluem of cuboid = ";
+    cout<<V;
+    return 0;
+
+}
