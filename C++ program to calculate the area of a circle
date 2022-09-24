@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    float A,r;
+    cout<<"enter the radius";
+    cout<<endl;
+    cin>>r;
+    A=3.14*r;
+    cout<<A;
+    return 0;
+
+}
