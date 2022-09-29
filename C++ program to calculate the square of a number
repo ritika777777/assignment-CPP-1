@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    int sqr,num;
+    cout<<"enter the number";
+    cout<<endl;
+    cin>>num;
+    sqr=num*num;
+    cout<<"squre of a num = ";
+    cout<<sqr;
+    return 0;
+
+}
